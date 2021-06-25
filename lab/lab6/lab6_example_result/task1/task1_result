@@ -1,0 +1,122 @@
+Waf: Entering directory `/home/nscap/workspace/ns-allinone-3.32/ns-3.32/build'
+Waf: Leaving directory `/home/nscap/workspace/ns-allinone-3.32/ns-3.32/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.537s)
+Current position: ( 2, 0, 0 )
++1s Client connects to AP 00:00:00:00:00:06
+Current position: ( 4, 0, 0 )
++2s Client connects to AP 00:00:00:00:00:06
+Current position: ( 6, 0, 0 )
++3s Client connects to AP 00:00:00:00:00:06
+Current position: ( 8, 0, 0 )
++4s Client connects to AP 00:00:00:00:00:06
+Current position: ( 10, 0, 0 )
++5s Client connects to AP 00:00:00:00:00:06
+Current position: ( 12, 0, 0 )
++6s Client connects to AP 00:00:00:00:00:06
+Current position: ( 14, 0, 0 )
++7s Client connects to AP 00:00:00:00:00:06
+Current position: ( 16, 0, 0 )
++8s Client connects to AP 00:00:00:00:00:06
+Current position: ( 18, 0, 0 )
++9s Client connects to AP 00:00:00:00:00:06
+Current position: ( 20, 0, 0 )
++10s Client connects to AP 00:00:00:00:00:06
+Current position: ( 22, 0, 0 )
++11s Client connects to AP 00:00:00:00:00:06
+Current position: ( 24, 0, 0 )
++12s Client connects to AP 00:00:00:00:00:06
+Current position: ( 26, 0, 0 )
++13s Client connects to AP 00:00:00:00:00:06
+Current position: ( 28, 0, 0 )
++14s Client connects to AP 00:00:00:00:00:06
+Current position: ( 30, 0, 0 )
++15s Client connects to AP 00:00:00:00:00:06
+Current position: ( 32, 0, 0 )
++16s Client connects to AP 00:00:00:00:00:06
+Current position: ( 34, 0, 0 )
++17s Client connects to AP 00:00:00:00:00:06
+Current position: ( 36, 0, 0 )
++18s Client connects to AP 00:00:00:00:00:06
+Current position: ( 38, 0, 0 )
++19s Client connects to AP 00:00:00:00:00:06
+Current position: ( 40, 0, 0 )
++20s Client connects to AP 00:00:00:00:00:06
+Current position: ( 42, 0, 0 )
++21s Client connects to AP 00:00:00:00:00:06
+Current position: ( 44, 0, 0 )
++22s Client connects to AP 00:00:00:00:00:06
+Current position: ( 46, 0, 0 )
++23s Client connects to AP 00:00:00:00:00:06
+Current position: ( 48, 0, 0 )
++24s Client connects to AP 00:00:00:00:00:06
+Current position: ( 50, 0, 0 )
++25s Client connects to AP 00:00:00:00:00:06
+Current position: ( 52, 0, 0 )
++26s Client connects to AP 00:00:00:00:00:06
+Current position: ( 54, 0, 0 )
++27s Client connects to AP 00:00:00:00:00:06
+Current position: ( 56, 0, 0 )
++28s Client connects to AP 00:00:00:00:00:06
+Current position: ( 58, 0, 0 )
++29s Client connects to AP 00:00:00:00:00:06
+Current position: ( 60, 0, 0 )
++30s Client connects to AP 00:00:00:00:00:06
+Current position: ( 62, 0, 0 )
++31s Client connects to AP 00:00:00:00:00:06
+Current position: ( 64, 0, 0 )
++32s Client connects to AP 00:00:00:00:00:06
+Current position: ( 66, 0, 0 )
++33s Client connects to AP 00:00:00:00:00:06
+Current position: ( 68, 0, 0 )
++34s Client connects to AP 00:00:00:00:00:06
+Current position: ( 70, 0, 0 )
++35s Client connects to AP 00:00:00:00:00:06
+Current position: ( 72, 0, 0 )
++36s Client connects to AP 00:00:00:00:00:06
+Current position: ( 74, 0, 0 )
++37s Client connects to AP 00:00:00:00:00:06
+Current position: ( 76, 0, 0 )
++38s Client connects to AP 00:00:00:00:00:06
+Current position: ( 78, 0, 0 )
++39s Client connects to AP 00:00:00:00:00:06
+Current position: ( 80, 0, 0 )
++40s Client connects to AP 00:00:00:00:00:06
+Current position: ( 82, 0, 0 )
++41s Client connects to AP 00:00:00:00:00:05
+Current position: ( 84, 0, 0 )
++42s Client connects to AP 00:00:00:00:00:05
+Current position: ( 86, 0, 0 )
++43s Client connects to AP 00:00:00:00:00:05
+Current position: ( 88, 0, 0 )
++44s Client connects to AP 00:00:00:00:00:05
+Current position: ( 90, 0, 0 )
++45s Client connects to AP 00:00:00:00:00:05
+Current position: ( 92, 0, 0 )
++46s Client connects to AP 00:00:00:00:00:05
+Current position: ( 94, 0, 0 )
++47s Client connects to AP 00:00:00:00:00:05
+Current position: ( 96, 0, 0 )
++48s Client connects to AP 00:00:00:00:00:05
+Current position: ( 98, 0, 0 )
++49s Client connects to AP 00:00:00:00:00:05
+Current position: ( 100, 0, 0 )
++50s Client connects to AP 00:00:00:00:00:05
+Current position: ( 102, 0, 0 )
++51s Client connects to AP 00:00:00:00:00:05
+Current position: ( 104, 0, 0 )
++52s Client connects to AP 00:00:00:00:00:05
+Current position: ( 106, 0, 0 )
++53s Client connects to AP 00:00:00:00:00:05
+Current position: ( 108, 0, 0 )
++54s Client connects to AP 00:00:00:00:00:05
+Current position: ( 110, 0, 0 )
++55s Client connects to AP 00:00:00:00:00:05
+Current position: ( 112, 0, 0 )
++56s Client connects to AP 00:00:00:00:00:05
+Current position: ( 114, 0, 0 )
++57s Client connects to AP 00:00:00:00:00:05
+Current position: ( 116, 0, 0 )
++58s Client connects to AP 00:00:00:00:00:05
+Current position: ( 118, 0, 0 )
++59s Client connects to AP 00:00:00:00:00:05

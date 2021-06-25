@@ -1,0 +1,13 @@
+[Connection statistics]
+- AP1
+  - MAC addr: 00:00:00:00:00:06
+  - Total connection duration: 31.8323s
+  - Total transmitted bytes: 61920 bytes
+- AP2
+  - MAC addr: 00:00:00:00:00:05
+  - Total connection duration: 20.1426s
+  - Total transmitted bytes: 43344 bytes
+
+[Other statistics]
+  - Number of handoff events: 4
+  - Theoretical sum-rate: 159 mbps
